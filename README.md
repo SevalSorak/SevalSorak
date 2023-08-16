@@ -1,7 +1,6 @@
 [![MasterHead](https://www.innovapptive.com/hubfs/The%20Impact%20of%20Artificial%20Intelligence%20%26amp_%20Machine%20Learning%20%28AI_ML%29%20on%20Operations_BLOG%20COVER_20200225.png)
 <h1 align="center">Hi 👋, I'm Seval</h1>
 - 🔭 I’m currently working on AI/ML/DS
-
 - 📫 How to reach me **sevalsorakk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
