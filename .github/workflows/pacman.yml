@@ -21,7 +21,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: SevalSorak
-          github_token: ${{ secrets.PROFILE_ACTIVITY_TOKEN || github.token }}
+          github_token: ${{ github.token }}
           theme: github-dark
           output: dist/pacman-contribution-graph.svg
 
