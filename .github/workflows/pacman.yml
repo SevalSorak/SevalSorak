@@ -1,9 +1,9 @@
 name: Generate Pac-Man
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "47 7 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -21,6 +21,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: SevalSorak
+          github_token: ${{ secrets.PROFILE_ACTIVITY_TOKEN || github.token }}
           theme: github-dark
           output: dist/pacman-contribution-graph.svg
 
