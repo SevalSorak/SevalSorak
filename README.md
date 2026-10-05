@@ -1,19 +1,117 @@
-![MasterHead](https://www.innovapptive.com/hubfs/The%20Impact%20of%20Artificial%20Intelligence%20%26amp_%20Machine%20Learning%20%28AI_ML%29%20on%20Operations_BLOG%20COVER_20200225.png)
-<h1 align="center">Hi 👋, I'm Seval</h1>
- 🔭 I’m currently working on AI/ML/DS
- 
- 📫 How to reach me **sevalsorakk@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sevalsorak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sevalsorak" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/hero-holographic.svg" alt="Seval Sorak — AI / ML / Software Engineer" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevalsorak&show_icons=true&locale=en&layout=compact" alt="sevalsorak" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sevalsorak&show_icons=true&locale=en" alt="sevalsorak" /></p>
+I build **AI-powered products and intelligent software systems** — from machine learning and computer vision to LLM-based agents and backend services.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sevalsorak&" alt="sevalsorak" /></p>
+My focus is on turning models and ideas into **real, usable products** with strong engineering foundations.
+
+<p>
+  <a href="https://linkedin.com/in/sevalsorak">
+    <img src="https://img.shields.io/badge/LinkedIn-Seval%20Sorak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sevalsorakk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sevalsorakk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/tech-sphere.svg" alt="Core focus areas and technology sphere" width="100%" />
+</p>
+
+<br/>
+
+## Selected Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01 — Anadolu: Haber Zaman Tüneli
+
+An interactive **3D news time-travel experience** built for the Media Technologies Hackathon.
+
+Users can explore archived news in a Three.js gallery, listen through AI-powered TTS and watch automatically generated video summaries.
+
+`Python` `Flask` `Three.js` `Transformers` `Whisper` `OpenAI`
+
+[View project →](https://github.com/SevalSorak/Medya-Teknolojileri-Hackathonu)
+
+</td>
+<td width="33%" valign="top">
+
+### 02 — Turkish AI Support Agent
+
+A **Turkish-speaking AI customer support agent** powered by a local LLM and tool calling.
+
+The system combines voice input/output, customer-support tools, local inference and modular agent architecture.
+
+`Ollama` `Llama` `Whisper` `VITS` `LanceDB` `Python`
+
+[View project →](https://github.com/SevalSorak/TurkceDogalDilIsleme2025BizTech)
+
+</td>
+<td width="33%" valign="top">
+
+### 03 — Diş Sağlığım
+
+An **AI-powered dental health platform** combining an Android application with computer vision and generative AI.
+
+It includes image analysis, an AI assistant, personalized care plans and gamified learning.
+
+`Kotlin` `FastAPI` `PyTorch` `Gemini` `Computer Vision`
+
+[View project →](https://github.com/SevalSorak/PupilicaHackathon)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/activity-pulse.svg" alt="Activity pulse" width="100%" />
+</p>
+
+<br/>
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,docker,git,postgres,mysql&perline=10" alt="Technology stack" />
+</p>
+
+<p align="center">
+  <code>Scikit-learn</code>
+  <code>Pandas</code>
+  <code>NumPy</code>
+  <code>LLMs</code>
+  <code>RAG</code>
+  <code>AI Agents</code>
+</p>
+
+<br/>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SevalSorak/SevalSorak/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+</p>
+
+<br/>
+
+<div align="center">
+
+### Let's Connect
+
+**AI · Machine Learning · LLMs · Computer Vision · Software Engineering**
+
+[LinkedIn](https://linkedin.com/in/sevalsorak) · [Email](mailto:sevalsorakk@gmail.com)
+
+</div>
