@@ -21,9 +21,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate activity pulse from public GitHub events
+      - name: Generate contribution-based activity pulse
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_ACTIVITY_TOKEN: ${{ secrets.PROFILE_ACTIVITY_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           GITHUB_ACTOR_TARGET: SevalSorak
         run: python scripts/generate_activity_pulse.py
 
