@@ -27,7 +27,6 @@ jobs:
 
       - name: Generate contribution-based activity pulse
         env:
-          PROFILE_ACTIVITY_TOKEN: ${{ secrets.PROFILE_ACTIVITY_TOKEN }}
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_ACTOR_TARGET: SevalSorak
         run: python scripts/generate_activity_pulse.py
